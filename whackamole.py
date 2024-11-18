@@ -12,7 +12,7 @@ def get_random_position(rows, cols, square_size):
     random_col = random.randrange(0, cols)
     return random_col * square_size, random_row * square_size
 
-# this is my first
+# this is my second
 def main():
     try:
         pygame.init()
